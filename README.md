@@ -16,3 +16,5 @@
 
 📫 Elérsz itt: laptopimre@gmail.com  
 💡 Minden projekt mögött ott van a szívem – és néha egy kis szórakozott varázslat is. ✨
+
+portfolio, demo, html, javascript, netlify, whisky, cocktail, visual, frontend, educational
